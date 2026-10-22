@@ -1,0 +1,3 @@
+# Zero external dependencies required - runs using Python standard library
+# (http.server, sqlite3, socketserver, json)
+
